@@ -1,6 +1,7 @@
 <template>
   <div class="container">
     <h1>Marie Helen Berger</h1>
+    <br></br>
     <p>This is a update to the index.vue file</p>
   </div>
 </template>
