@@ -1,0 +1,17 @@
+{
+  "name": "ma2ex9",
+  "version": "1.0.0",
+  "description": "exercise for ma 2 workflow 2",
+  "author": "Marie Helen Berger",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
